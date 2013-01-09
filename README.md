@@ -7,12 +7,10 @@ Prerequisites
 Dependencies
 ------------
 
-Django:
-
     pip install zc.buildbot
 
-Web application setup
----------------------
+Setup
+-----
 
     buildout
 
